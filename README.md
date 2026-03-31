@@ -47,3 +47,22 @@ Follow these steps to get the project up and running on your system.
   ```terminal
   bash ./setup_linux.sh
   ```
+  Exit the terminal for now
+  
+---
+
+## 4. Create a Free Groq Account for API Key
+1. Go to [groq.com](https://groq.com/).
+2. Create an account and navigate to **API Keys** on the top right.
+   
+   <img width="566" height="566" alt="image" src="https://github.com/user-attachments/assets/c9cae88e-e8aa-4a23-bbbb-3ac674af526f" />
+
+3. Create your key and **copy** it.
+4. Open your `.env` file in a text editor and paste your key in the area shown below:
+
+   <img width="603" height="325" alt="image" src="https://github.com/user-attachments/assets/1b517a66-5c6f-4fd4-883d-aae299db7252" />
+
+> [!CAUTION]
+> **IMPORTANT:** Do NOT delete the quotation marks `""`. Your key must stay inside them to work properly!
+
+
