@@ -64,4 +64,4 @@ Follow these steps to get the project up and running on your system.
 
 > [!CAUTION]
 > **IMPORTANT:** Do NOT delete the quotation marks `""`. Your key must stay inside them to work properly!<br>
-> **IF FILE NOT FOUND:** On windows go to `view -> show hidden files` if the file is still not found make sure you ran setup_windows.bat on step 3.
+> **IF FILE NOT FOUND:** On windows go to `view -> show -> hidden files` if the file is still not found make sure you ran setup_windows.bat on step 3.
