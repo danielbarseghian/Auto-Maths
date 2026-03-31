@@ -8,7 +8,7 @@ Follow these steps to get the project up and running on your system.
   The project requires Python to run. Follow the instructions for your operating system:
 
 ### **Windows**
-  1. Visit the [Python website](https://www.python.org/downloads/windows/).
+  1. Visit the [Python website](https://www.python.org/downloads/).
   2. Click on **Python 3.14.3** (or the latest version) to download the `.exe` installer. 
      > **Note:** Do not download the "Install Manager."
      
