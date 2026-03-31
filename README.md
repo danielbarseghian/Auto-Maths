@@ -47,7 +47,7 @@ Follow these steps to get the project up and running on your system.
   ```terminal
   bash ./setup_linux.sh
   ```
-  Exit the terminal for now
+  Exit the terminal or code (by typing q) for now
   
 ---
 
@@ -64,5 +64,4 @@ Follow these steps to get the project up and running on your system.
 
 > [!CAUTION]
 > **IMPORTANT:** Do NOT delete the quotation marks `""`. Your key must stay inside them to work properly!
-
-
+> **IF FILE NOT FOUND:** On windows go to `view -> show hidden files ` if still not found make sure you ran setup_windows.bat on step 3.
