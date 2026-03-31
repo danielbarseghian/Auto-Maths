@@ -1,2 +1,2 @@
-moondream
+groq
 pillow

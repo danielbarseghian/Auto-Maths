@@ -4,11 +4,8 @@ python3 -m venv venv
 # Activate venv
 source venv/bin/activate
 
-# Create a temp folder in your home directory
-mkdir ~/pip_tmp
-
 # Install requirements
-TMPDIR=~/pip_tmp pip install -r requirements.txt
+pip install -r requirements.txt
 
 #           AT THE END
 # Don't forget to disable install
