@@ -9,7 +9,7 @@ import sys
 def main():
     ex = input("Quel exercice? (Format exact: ex --> 9p90 | q pour quitter) ").strip().lower()
     if ex == "q":
-	sys.exit(0)
+		sys.exit(0)
     exercice, page = ex.split("p")
     
     api_key = os.environ.get("key") 
