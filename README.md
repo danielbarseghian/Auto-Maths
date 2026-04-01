@@ -63,5 +63,11 @@ Follow these steps to get the project up and running on your system.
    <img width="603" height="325" alt="image" src="https://github.com/user-attachments/assets/1b517a66-5c6f-4fd4-883d-aae299db7252" />
 
 > [!CAUTION]
-> **IMPORTANT:** Do NOT delete the quotation marks `""`. Your key must stay inside them to work properly!<br>
-> **IF FILE NOT FOUND:** On windows go to `view -> show -> hidden files` if the file is still not found make sure you ran setup_windows.bat on step 3.
+>   -**IMPORTANT:** Do NOT delete the quotation marks `""`. Your key must stay inside them to work properly!<br>
+>   -**IF FILE NOT FOUND:** On windows go to `view -> show -> hidden files` if the file is still not found make sure you ran setup_windows.bat on step 3.
+
+## 5. Run the program
+  To run the code i recommend to use the setup_ file you used before since it will check and do all the setups automaticly.
+  ```terminal
+  ./setup_windows.bat # Use the one for your operating system
+  ```
